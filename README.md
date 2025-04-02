@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jonathan Hirata</h1>
-<h3 align="center">I'm Student</h3>
+<h3 align="center">I'm Student and work as a cell phone technician at Coppel</h3>
 
 </p>
 
